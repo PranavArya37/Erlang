@@ -33,7 +33,13 @@
 
 ![](Screenshots/Create%20Integers%20and%20Floats.png)
     
-- ### Create Constants using define
+- ### Create Constants using define (Code)
+
+![](Screenshots/Constants%20Using%20Define%20ERL.png)
+
+- ### Create Constants using define (Terminal)
+
+![](Screenshots/Constants%20Using%20Define%20Terminal.png)
 
 - ### Create atoms
     
