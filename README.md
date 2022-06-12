@@ -61,8 +61,8 @@ start() ->
 
 ![](Screenshots/Boolean%20Atoms%20how%20to%20create%20and%20use.png)
     
-- ### List Basic Operations
-    
-- ### Spilting List into Head and Tail
+- ### List Basic Operations and Spilting List into Head and Tail 
+
+![](Screenshots/List%20Basic%20Operations%20and%20Spilting%20List%20into%20Head%20and%20Tail.png)
     
 - ### List Processing/Transform using list methods
