@@ -57,7 +57,9 @@ start() ->
 
 ![](Screenshots/Create%20Atoms.png)
     
-- ### Boolean Atoms how to create and use
+- ### Boolean Atoms how to create and use 
+
+![](Screenshots/Boolean%20Atoms%20how%20to%20create%20and%20use.png)
     
 - ### List Basic Operations
     
