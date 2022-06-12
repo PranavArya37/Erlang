@@ -34,3 +34,13 @@
 ![](Screenshots/Create%20Integers%20and%20Floats.png)
     
 - ### Create Constants using define
+
+- ### Create atoms
+    
+- ### Boolean Atoms how to create and use
+    
+- ### List Basic Operations
+    
+- ### Spilting List into Head and Tail
+    
+- ### List Processing/Transform using list methods
