@@ -42,6 +42,8 @@
 ![](Screenshots/Constants%20Using%20Define%20Terminal.png)
 
 - ### Create atoms
+
+![](Screenshots/Create%20Atoms.png)
     
 - ### Boolean Atoms how to create and use
     
