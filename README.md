@@ -32,6 +32,18 @@
 - ### Create Integers and Floats
 
 ![](Screenshots/Create%20Integers%20and%20Floats.png)
+
+
+```
+-module(helloworld). 
+-export([start/0]). 
+
+start() -> 
+   X = 40, 
+   Y = 50, 
+   Result = X + Y, 
+   io:fwrite("~w",[Result]).
+```
     
 - ### Create Constants using define (Code)
 
