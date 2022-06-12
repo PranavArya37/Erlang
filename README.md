@@ -1,1 +1,36 @@
 # Erlang-Assignments
+## Week 1
+
+- ### Create Variable in the Shell
+
+![](Screenshots/Create%20Variables%20in%20the%20Shell.png)
+    
+- ### Seeing Your Bound Variables
+
+![](Screenshots/Seeing%20Your%20Bound%20Variables.png)
+    
+- ### Clearing Bound Variables in the Shell for a particular variable
+
+![](Screenshots/Clearing%20Bound%20Variables%20in%20the%20Shell%20for%20a%20Particular%20Variable.png)
+
+- ### Clearing All Bound Variable in the Shell
+
+![](Screenshots/Clearing%20All%20Bound%20Variable%20in%20the%20Shell.png)
+    
+- ### Formatting Output using io:format (~s)
+
+![](Screenshots/Formatting%20Output%20using%20io:format%201.png)
+
+- ### Formatting Output using io:format (~w)
+
+![](Screenshots/Formatting%20Output%20using%20io:format%202.png)
+
+- ### Formatting Output using io:format (~p)
+
+![](Screenshots/Formatting%20Output%20using%20io:format%203.png)
+    
+- ### Create Integers and Floats
+
+![](Screenshots/Create%20Integers%20and%20Floats.png)
+    
+- ### Create Constants using define
