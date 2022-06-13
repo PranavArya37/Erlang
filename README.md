@@ -65,4 +65,3 @@ start() ->
 
 ![](Screenshots/List%20Basic%20Operations%20and%20Spilting%20List%20into%20Head%20and%20Tail.png)
     
-- ### List Processing/Transform using list methods
