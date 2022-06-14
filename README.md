@@ -88,3 +88,7 @@ start() ->
 - ### Create Pattern Matching With Tuples (Terminal)
 
 ![](Screenshots/Pattern%20Matching%20With%20Tuples%20Terminal.png)
+
+- ### Create Binaries
+
+![](Screenshots/Create%20Binaries.png)
