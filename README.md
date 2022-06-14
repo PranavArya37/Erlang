@@ -22,6 +22,7 @@
 - [Create Pattern Matching With Tuples (Terminal)](#create-pattern-matching-with-tuples-terminal)
 - [Create Binaries](#create-binaries)
 - [Convert Binary to list, tuples, float, integers, atoms, terms](#convert-binary-to-list-tuples-float-integers-atoms-terms)
+- [Create examples with If Statements inside functions (Code)](#create-examples-with-if-statements-inside-functions-code)
 
 ***
 - ### Create Variable in the Shell 
@@ -141,3 +142,9 @@ start() ->
 
 ![](Screenshots/Playing%20With%20Binaries.png)<br>
 [(Back To Top)](#week-1)
+
+- ### Create examples with If Statements inside functions (Code)
+
+![](Screenshots/If%20Statement%20Inside%20Functions%20Code.png)<br>
+[(Back To Top)](#week-1)
+
