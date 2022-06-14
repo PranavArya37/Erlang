@@ -24,6 +24,9 @@
 - [Convert Binary to list, tuples, float, integers, atoms, terms](#convert-binary-to-list-tuples-float-integers-atoms-terms)
 - [Create examples with If Statements inside functions (Code)](#create-examples-with-if-statements-inside-functions-code)
 - [Create examples with If Statements inside functions (Terminal)](#create-examples-with-if-statements-inside-functions-terminal)
+- [Create examples with Case Statements inside functions (Code)](#create-examples-with-case-statements-inside-functions-code)
+- [Create examples with Case Statements inside functions (Terminal)](#create-examples-with-case-statements-inside-functions-terminal)
+
 
 ***
 - ### Create Variable in the Shell 
@@ -152,5 +155,15 @@ start() ->
 - ### Create examples with If Statements inside functions (Terminal)
 
 ![](Screenshots/If%20Statement%20Inside%20Functions%20Terminal.png)<br>
+[(Back To Top)](#week-1)
+
+- ### Create examples with Case Statements inside functions (Code)
+
+![](Screenshots/Case%20Statement%20Inside%20Functions%20Code.png)<br>
+[(Back To Top)](#week-1)
+
+- ### Create examples with Case Statements inside functions (Terminal)
+
+![](Screenshots/Case%20Statement%20Inside%20Functions%20Terminal.png)<br>
 [(Back To Top)](#week-1)
 
