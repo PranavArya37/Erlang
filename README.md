@@ -1,6 +1,29 @@
 # Erlang-Assignments
 ## Week 1
 
+- [Create Variable in the Shell](#create-variable-in-the-shell)
+- [Seeing Your Bound Variables](#seeing-your-bound-variables)
+- [Clearing Bound Variables in the Shell for a particular variable](#clearing-bound-variables-in-the-shell-for-a-particular-variable)
+- [Clearing All Bound Variable in the Shell](#clearing-all-bound-variable-in-the-shell)
+- [Formatting Output using io:format (~s)](#formatting-output-using-ioformat-s)
+- [Formatting Output using io:format (~w)](#formatting-output-using-ioformat-w)
+- [Formatting Output using io:format (~p)](#formatting-output-using-ioformat-p)
+- [Create Integers and Floats](#create-integers-and-floats)
+- [Create Constants using define (Code)](#create-constants-using-define-code)
+- [Create Constants using define (Terminal)](#create-constants-using-define-terminal)
+- [Create Atoms](#create-atoms)
+- [Boolean Atoms how to create and use](#boolean-atoms-how-to-create-and-use)
+- [List Basic Operations and Spilting List into Head and Tail](#list-basic-operations-and-spilting-list-into-head-and-tail)
+- [Create Tuples](#create-tuples)
+- [Build List of Lists](#build-list-of-lists)
+- [Create Pattern Matching With Atoms (Code)](#create-pattern-matching-with-atoms-code)
+- [Create Pattern Matching With Atoms (Terminal)](#create-pattern-matching-with-atoms-terminal)
+- [Create Pattern Matching With Tuples (Code)](#create-pattern-matching-with-tuples-code)
+- [Create Pattern Matching With Tuples (Terminal)](#create-pattern-matching-with-tuples-terminal)
+- [Create Binaries](#create-binaries)
+- [Convert Binary to list, tuples, float, integers, atoms, terms](#convert-binary-to-list-tuples-float-integers-atoms-terms)
+
+***
 - ### Create Variable in the Shell
 
 ![](Screenshots/Create%20Variables%20in%20the%20Shell.png)
@@ -53,7 +76,7 @@ start() ->
 
 ![](Screenshots/Constants%20Using%20Define%20Terminal.png)
 
-- ### Create atoms
+- ### Create Atoms
 
 ![](Screenshots/Create%20Atoms.png)
     
