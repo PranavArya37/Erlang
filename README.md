@@ -72,3 +72,7 @@ start() ->
 - ### Build List of Lists
 
 ![](Screenshots/Build%20List%20of%20Lists.png)
+
+- ### Create Pattern Matching With Atoms (Code)
+
+![](Screenshots/Pattern%20Matching%20With%20Atoms%20Code.png)
