@@ -24,37 +24,45 @@
 - [Convert Binary to list, tuples, float, integers, atoms, terms](#convert-binary-to-list-tuples-float-integers-atoms-terms)
 
 ***
-- ### Create Variable in the Shell
+- ### Create Variable in the Shell 
 
 ![](Screenshots/Create%20Variables%20in%20the%20Shell.png)
+[(Back To Top)](#week-1)
     
 - ### Seeing Your Bound Variables
 
 ![](Screenshots/Seeing%20Your%20Bound%20Variables.png)
+[(Back To Top)](#week-1)
     
 - ### Clearing Bound Variables in the Shell for a particular variable
 
 ![](Screenshots/Clearing%20Bound%20Variables%20in%20the%20Shell%20for%20a%20Particular%20Variable.png)
+[(Back To Top)](#week-1)
 
 - ### Clearing All Bound Variable in the Shell
 
 ![](Screenshots/Clearing%20All%20Bound%20Variable%20in%20the%20Shell.png)
+[(Back To Top)](#week-1)
     
 - ### Formatting Output using io:format (~s)
 
 ![](Screenshots/Formatting%20Output%20using%20io:format%201.png)
+[(Back To Top)](#week-1)
 
 - ### Formatting Output using io:format (~w)
 
 ![](Screenshots/Formatting%20Output%20using%20io:format%202.png)
+[(Back To Top)](#week-1)
 
 - ### Formatting Output using io:format (~p)
 
 ![](Screenshots/Formatting%20Output%20using%20io:format%203.png)
+[(Back To Top)](#week-1)
     
 - ### Create Integers and Floats
 
 ![](Screenshots/Create%20Integers%20and%20Floats.png)
+[(Back To Top)](#week-1)
 
 
 ```
@@ -71,51 +79,64 @@ start() ->
 - ### Create Constants using define (Code)
 
 ![](Screenshots/Constants%20Using%20Define%20ERL.png)
+[(Back To Top)](#week-1)
 
 - ### Create Constants using define (Terminal)
 
 ![](Screenshots/Constants%20Using%20Define%20Terminal.png)
+[(Back To Top)](#week-1)
 
 - ### Create Atoms
 
 ![](Screenshots/Create%20Atoms.png)
+[(Back To Top)](#week-1)
     
 - ### Boolean Atoms how to create and use 
 
 ![](Screenshots/Boolean%20Atoms%20how%20to%20create%20and%20use.png)
+[(Back To Top)](#week-1)
     
 - ### List Basic Operations and Spilting List into Head and Tail 
 
 ![](Screenshots/List%20Basic%20Operations%20and%20Spilting%20List%20into%20Head%20and%20Tail.png)
+[(Back To Top)](#week-1)
 
 - ### Create Tuples
 
 ![](Screenshots/Create%20Tuple.png)
+[(Back To Top)](#week-1)
 
 - ### Build List of Lists
 
 ![](Screenshots/Build%20List%20of%20Lists.png)
+[(Back To Top)](#week-1)
 
 - ### Create Pattern Matching With Atoms (Code)
 
 ![](Screenshots/Pattern%20Matching%20With%20Atoms%20Code.png)
+[(Back To Top)](#week-1)
 
 - ### Create Pattern Matching With Atoms (Terminal)
 
 ![](Screenshots/Pattern%20Matching%20With%20Atoms%20Terminal.png)
+[(Back To Top)](#week-1)
 
 - ### Create Pattern Matching With Tuples (Code)
 
 ![](Screenshots/Pattern%20Matching%20With%20Tuples%20Code.png)
+[(Back To Top)](#week-1)
 
 - ### Create Pattern Matching With Tuples (Terminal)
 
 ![](Screenshots/Pattern%20Matching%20With%20Tuples%20Terminal.png)
+[(Back To Top)](#week-1)
 
 - ### Create Binaries
 
 ![](Screenshots/Create%20Binaries.png)
+[(Back To Top)](#week-1)
 
 - ### Convert Binary to list, tuples, float, integers, atoms, terms
 
 ![](Screenshots/Playing%20With%20Binaries.png)
+[(Back To Top)](#week-1)
