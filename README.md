@@ -76,3 +76,7 @@ start() ->
 - ### Create Pattern Matching With Atoms (Code)
 
 ![](Screenshots/Pattern%20Matching%20With%20Atoms%20Code.png)
+
+- ### Create Pattern Matching With Atoms (Terminal)
+
+![](Screenshots/Pattern%20Matching%20With%20Atoms%20Terminal.png)
