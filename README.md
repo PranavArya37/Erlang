@@ -159,11 +159,11 @@ start() ->
 
 - ### Create examples with Case Statements inside functions (Code)
 
-![](Screenshots/Case%20Statement%20Inside%20Functions%20Code.png)<br>
+![](Screenshots/Case%20Statement%20Inside%20Function%20Code.png)<br>
 [(Back To Top)](#week-1)
 
 - ### Create examples with Case Statements inside functions (Terminal)
 
-![](Screenshots/Case%20Statement%20Inside%20Functions%20Terminal.png)<br>
+![](Screenshots/Case%20Statement%20Inside%20Function%20Terminal.png)<br>
 [(Back To Top)](#week-1)
 
