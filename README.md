@@ -68,4 +68,7 @@ start() ->
 - ### Create Tuples
 
 ![](Screenshots/Create%20Tuple.png)
-    
+
+- ### Build List of Lists
+
+![](Screenshots/Build%20List%20of%20Lists.png)
