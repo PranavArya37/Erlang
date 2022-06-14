@@ -92,3 +92,7 @@ start() ->
 - ### Create Binaries
 
 ![](Screenshots/Create%20Binaries.png)
+
+- ### Convert Binary to list, tuples, float, integers, atoms, terms
+
+![](Screenshots/Playing%20With%20Binaries.png)
