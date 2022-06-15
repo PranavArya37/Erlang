@@ -27,6 +27,8 @@
 - [Create examples with Case Statements inside functions (Code)](#create-examples-with-case-statements-inside-functions-code)
 - [Create examples with Case Statements inside functions (Terminal)](#create-examples-with-case-statements-inside-functions-terminal)
 - [Mapping Data using Maps](#mapping-data-using-maps)
+- [Create a record and print it using io:format (Code)](#create-a-record-and-print-it-using-ioformat-code)
+- [Create a record and print it using io:format (Terminal)](#create-a-record-and-print-it-using-ioformat-terminal)
 
 ***
 - ### Create Variable in the Shell 
@@ -172,3 +174,12 @@ start() ->
 ![](Screenshots/Maps.png)<br>
 [(Back To Top)](#week-1)
 
+- ### Create a record and print it using io:format (Code)
+
+![](Screenshots/Record%20Code.png)<br>
+[(Back To Top)](#week-1)
+
+- ### Create a record and print it using io:format (Terminal)
+
+![](Screenshots/Record%20Terminal.png)<br>
+[(Back To Top)](#week-1)
