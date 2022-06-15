@@ -26,7 +26,7 @@
 - [Create examples with If Statements inside functions (Terminal)](#create-examples-with-if-statements-inside-functions-terminal)
 - [Create examples with Case Statements inside functions (Code)](#create-examples-with-case-statements-inside-functions-code)
 - [Create examples with Case Statements inside functions (Terminal)](#create-examples-with-case-statements-inside-functions-terminal)
-
+- [Mapping Data using Maps](#mapping-data-using-maps)
 
 ***
 - ### Create Variable in the Shell 
@@ -165,5 +165,10 @@ start() ->
 - ### Create examples with Case Statements inside functions (Terminal)
 
 ![](Screenshots/Case%20Statement%20Inside%20Function%20Terminal.png)<br>
+[(Back To Top)](#week-1)
+
+- ### Mapping Data using Maps
+
+![](Screenshots/Maps.png)<br>
 [(Back To Top)](#week-1)
 
