@@ -34,7 +34,7 @@
 - ### Create Variable in the Shell 
 
 ![](Screenshots%20Week%201/Create%20Variables%20in%20the%20Shell.png)<br>
-[(Back To Top)](#week-1----back-to-home)
+[(Back To Top)](#week-1----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
     
 - ### Seeing Your Bound Variables
 
