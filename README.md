@@ -1,4 +1,6 @@
 # Erlang Assignments
 ## Weeks
 
-- [Week 1](https://github.com/PranavArya37/Erlang-Assignments/tree/master/Week%201#week-1)
+- [Week 1](https://github.com/PranavArya37/Erlang/blob/master/Week%201/README.md#week-1----back-to-home)
+- [Week 2](https://github.com/PranavArya37/Erlang/blob/master/Week%202/README.md#week-2----back-to-home)
+
