@@ -5,7 +5,18 @@
 - [Define Module](#define-module)
 - [Create Functions in module and call from shell (Code)](#create-functions-in-module-and-call-from-shell-code)
 - [Create Functions in module and call from shell (Terminal)](#create-functions-in-module-and-call-from-shell-terminal)
-
+- [Anonymous Functions (Code)](#anonymous-functions-code)
+- [Anonymous Functions (Terminal)](#anonymous-functions-terminal)
+- [Function With Multiple Arguments (Code)](#function-with-multiple-arguments-code)
+- [Function With Multiple Arguments (Terminal)](#function-with-multiple-arguments-terminal)
+- [Create a Factorial Using Recursion (Code)](#create-a-factorial-using-recursion-code)
+- [Create a Factorial Using Recursion (Terminal)](#create-a-factorial-using-recursion-terminal)
+- [Create a Higher Order Function 1 (Code)](#create-a-higher-order-function-1-code)
+- [Create a Higher Order Function 1 (Terminal)](#create-a-higher-order-function-1-terminal)
+- [Create a Higher Order Function 2 (Code)](#create-a-higher-order-function-2-code)
+- [Create a Higher Order Function 2 (Terminal)](#create-a-higher-order-function-2-terminal)
+- [Create a Guard (Code)](#create-a-guard-code)
+- [Create a Guard (Terminal)](#create-a-guard-terminal)
 
 
 
