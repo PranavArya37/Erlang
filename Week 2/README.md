@@ -166,6 +166,12 @@
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
+- ### Built In Functions
+
+![](Screenshots%20Week%202/Built%20In%20Functions.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
 
 
     
