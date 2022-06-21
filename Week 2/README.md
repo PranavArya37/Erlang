@@ -82,4 +82,19 @@
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
+- ### Create a Factorial Using Recursion (Code)
+
+![](Screenshots%20Week%202/Function%204%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Create a Factorial Using Recursion (Terminal)
+
+![](Screenshots%20Week%202/Function%204%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+
+
+
     
