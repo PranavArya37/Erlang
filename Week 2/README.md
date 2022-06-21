@@ -2,7 +2,8 @@
 ## Week 2  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Back To Home](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
-- [Define Module](#define-module)
+- [Define Module (Code)](#define-module-code)
+- [Define Module (Terminal)](#define-module-terminal)
 - [Create Functions in module and call from shell (Code)](#create-functions-in-module-and-call-from-shell-code)
 - [Create Functions in module and call from shell (Terminal)](#create-functions-in-module-and-call-from-shell-terminal)
 - [Anonymous Functions (Code)](#anonymous-functions-code)
@@ -17,6 +18,13 @@
 - [Create a Higher Order Function 2 (Terminal)](#create-a-higher-order-function-2-terminal)
 - [Create a Guard (Code)](#create-a-guard-code)
 - [Create a Guard (Terminal)](#create-a-guard-terminal)
+- [Guard With If Statement (Code)](#guard-with-if-statement-code)
+- [Guard With If Statement (Terminal)](#guard-with-if-statement-terminal)
+- [Guard With Case Statement (Code)](#guard-with-case-statement-code)
+- [Guard With Case Statement (Terminal)](#guard-with-case-statement-terminal)
+- [Create a For Loop with Recursion (Code)](#create-a-for-loop-with-recursion-code)
+- [Create a For Loop with Recursion (Terminal)](#create-a-for-loop-with-recursion-terminal)
+- [Built In Functions](#built-in-functions)
 
 
 
