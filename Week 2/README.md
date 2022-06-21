@@ -70,4 +70,16 @@
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
+- ### Function With Multiple Arguments (Code)
+
+![](Screenshots%20Week%202/Function%203%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Function With Multiple Arguments (Terminal)
+
+![](Screenshots%20Week%202/Function%203%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
     
