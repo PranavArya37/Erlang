@@ -39,7 +39,6 @@
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
-
 - ### Define Module (Terminal)
 
 ![](Screenshots%20Week%202/Define%20Module%20Terminal.png)<br>
@@ -91,6 +90,30 @@
 - ### Create a Factorial Using Recursion (Terminal)
 
 ![](Screenshots%20Week%202/Function%204%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Create a Higher Order Function 1 (Code)
+
+![](Screenshots%20Week%202/Higher%20Order%20Function%201%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Create a Higher Order Function 1 (Terminal)
+
+![](Screenshots%20Week%202/Higher%20Order%20Function%201%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Create a Higher Order Function 2 (Code)
+
+![](Screenshots%20Week%202/Higher%20Order%20Function%202%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Create a Higher Order Function 2 (Terminal)
+
+![](Screenshots%20Week%202/Higher%20Order%20Function%202%20Terminal.png)<br>
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
