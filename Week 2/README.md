@@ -25,6 +25,12 @@
 - [Create a For Loop with Recursion (Code)](#create-a-for-loop-with-recursion-code)
 - [Create a For Loop with Recursion (Terminal)](#create-a-for-loop-with-recursion-terminal)
 - [Built In Functions](#built-in-functions)
+- [Create a Process (Code)](#create-a-process-code)
+- [Create a Process (Terminal)](#create-a-process-terminal)
+- [Register a Process (Code)](#register-a-process-code)
+- [Register a Process (Terminal)](#register-a-process-terminal)
+- [Passing Messages (Code)](#passing-messages-code)
+- [Passing Messages (Terminal)](#passing-messages-terminal)
 
 
 
@@ -171,6 +177,41 @@
 ![](Screenshots%20Week%202/Built%20In%20Functions.png)<br>
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
+
+- ### Create a Process (Code)
+
+![](Screenshots%20Week%202/Create%20a%20Process%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Create a Process (Terminal)
+
+![](Screenshots%20Week%202/Create%20a%20Process%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Register a Process (Code)
+
+![](Screenshots%20Week%202/Register%20Process%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Register a Process (Terminal)
+
+![](Screenshots%20Week%202/Register%20Process%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Passing Messages (Code)
+
+![](Screenshots%20Week%202/Message%20Passing%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Passing Messages (Terminal)
+
+![](Screenshots%20Week%202/Message%20Passing%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
 
