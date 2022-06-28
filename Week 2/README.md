@@ -262,4 +262,52 @@
 ![](Screenshots%20Week%202/Processes%20Example%20Terminal.png)<br>
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
+
+- ### Recursion Example 1 (Code)
+
+![](Screenshots%20Week%202/Recursion%201%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 1 (Terminal)
+
+![](Screenshots%20Week%202/Recursion%201%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 2 (Code)
+
+![](Screenshots%20Week%202/Recursion%202%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 2 (Terminal)
+
+![](Screenshots%20Week%202/Recursion%202%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 3 (Code)
+
+![](Screenshots%20Week%202/Recursion%203%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 3 (Terminal)
+
+![](Screenshots%20Week%202/Recursion%203%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 4 (Code)
+
+![](Screenshots%20Week%202/Recursion%204%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Recursion Example 4 (Terminal)
+
+![](Screenshots%20Week%202/Recursion%204%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
     
