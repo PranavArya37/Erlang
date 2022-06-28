@@ -31,6 +31,11 @@
 - [Register a Process (Terminal)](#register-a-process-terminal)
 - [Passing Messages (Code)](#passing-messages-code)
 - [Passing Messages (Terminal)](#passing-messages-terminal)
+- [Link and Monitor 1 (Terminal)](#link-and-monitor-1-terminal)
+- [Link and Monitor 2 (Terminal)](#link-and-monitor-2-terminal)
+- [Link and Monitor 3 (Terminal)](#link-and-monitor-3-terminal)
+- [Link and Monitor 4 (Terminal)](#link-and-monitor-4-terminal)
+- [Link and Monitor 5 (Terminal)](#link-and-monitor-5-terminal)
 
 
 
@@ -214,5 +219,33 @@
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
 
+- ### Link and Monitor 1 (Terminal)
+
+![](Screenshots%20Week%202/Links%20and%20Monitors%201%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Link and Monitor 2 (Terminal)
+
+![](Screenshots%20Week%202/Links%20and%20Monitors%202%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Link and Monitor 3 (Terminal)
+
+![](Screenshots%20Week%202/Links%20and%20Monitors%203%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Link and Monitor 4 (Terminal)
+
+![](Screenshots%20Week%202/Links%20and%20Monitors%204%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Link and Monitor 5 (Terminal)
+
+![](Screenshots%20Week%202/Links%20and%20Monitors%205%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
     
