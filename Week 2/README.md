@@ -36,6 +36,8 @@
 - [Link and Monitor 3 (Terminal)](#link-and-monitor-3-terminal)
 - [Link and Monitor 4 (Terminal)](#link-and-monitor-4-terminal)
 - [Link and Monitor 5 (Terminal)](#link-and-monitor-5-terminal)
+- [Processes Example (Code)](#processes-example-code)
+- [Processes Example (Terminal)](#processes-example-terminal)
 
 
 
@@ -246,6 +248,18 @@
 - ### Link and Monitor 5 (Terminal)
 
 ![](Screenshots%20Week%202/Links%20and%20Monitors%205%20Terminal.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Processes Example (Code)
+
+![](Screenshots%20Week%202/Processes%20Example%20Code.png)<br>
+[(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
+
+
+- ### Processes Example (Terminal)
+
+![](Screenshots%20Week%202/Processes%20Example%20Terminal.png)<br>
 [(Back To Top)](#week-2----back-to-home) [(Back To Home)](https://github.com/PranavArya37/Erlang#erlang-assignments)
 
     
